@@ -136,7 +136,7 @@ li{
     position: absolute;
     top: 50%;
     left: 100px;
-    max-width: 100%;
+    width: 300px;
     text-align: left;
     color: #eee;
     transform: translate(0, -50%);
@@ -198,27 +198,7 @@ li{
     color: #463434;
 
 }
-#scrollToTopBtn {
-  display: none; /* Hidden by default */
-  position: fixed;
-  bottom: 40px;
-  right: 40px;
-  z-index: 100;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: #333;
-  color: rgb(27, 20, 20);
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 50%;
-  transition: opacity 0.3s;
-}
-
-#scrollToTopBtn:hover {
-  background-color: #555;
-}
-
+ 
   
   footer {
     background: #333;
