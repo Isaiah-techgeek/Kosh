@@ -95,14 +95,14 @@ li{
 .container{
     position: absolute;
    
-    width: 1000px;
+    width: 1200px;
     height: 500px;
     background: #fff;
     box-shadow: 0 30px #fdfdfd;
     
 }
 .container .slide .item{
-    width: 100px;
+    width: 200px;
     height: 300px;
     position: absolute;
     top: 50%;
